@@ -1,0 +1,56 @@
+[
+  {
+    "doctor_img": "https://i.ibb.co/tqXkFmN/Rectangle-17.jpg",
+    "name": "Dr. John Smith",
+    "doctor_role": "Senior Physiotherapist",
+    "rating": 4,
+    "location": "New York, NY",
+    "available_on": ["Monday", "Wednesday", "Friday"],
+    "booking_fees": 150
+  },
+  {
+    "doctor_img": "https://i.ibb.co/X4mCzr1/Rectangle-15.jpg",
+    "name": "Dr. Emily Davis",
+    "doctor_role": "BTP - Senior Cardiologist",
+    "rating": 4.9,
+    "location": "Los Angeles, CA",
+    "available_on": ["Tuesday", "Thursday"],
+    "booking_fees": 200
+  },
+  {
+    "doctor_img": "https://i.ibb.co/qg66fzz/Rectangle-16.jpg",
+    "name": "Dr. Michael Brown",
+    "doctor_role": "BTP - Pediatrician",
+    "rating": 4.7,
+    "location": "Chicago, IL",
+    "available_on": ["Monday", "Tuesday", "Wednesday"],
+    "booking_fees": 180
+  },
+  {
+    "doctor_img": "https://i.ibb.co/tqXkFmN/Rectangle-17.jpg",
+    "name": "Dr. Sarah Wilson",
+    "doctor_role": "BTP - Dermatologist",
+    "rating": 4.6,
+    "location": "San Francisco, CA",
+    "available_on": ["Wednesday", "Friday"],
+    "booking_fees": 170
+  },
+  {
+    "doctor_img": "https://i.ibb.co/X4mCzr1/Rectangle-15.jpg",
+    "name": "Dr. David Martinez",
+    "doctor_role": "BTP - Orthopedic Surgeon",
+    "rating": 4.8,
+    "location": "Houston, TX",
+    "available_on": ["Monday", "Thursday"],
+    "booking_fees": 220
+  },
+  {
+    "doctor_img": "https://i.ibb.co/qg66fzz/Rectangle-16.jpg",
+    "name": "Dr. Linda Johnson",
+    "doctor_role": "BTP - Neurologist",
+    "rating": 4.5,
+    "location": "Miami, FL",
+    "available_on": ["Tuesday", "Friday"],
+    "booking_fees": 250
+  }
+]

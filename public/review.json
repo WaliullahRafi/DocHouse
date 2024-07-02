@@ -1,0 +1,38 @@
+[
+  {
+    "user_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Alice Johnson",
+    "position": "Product Designer",
+    "review": "Dr. John Smith is a wonderful Senior Physiotherapist. He helped me recover from a severe back injury with a customized rehabilitation program. His expertise and dedication are evident in every session, and he always takes the time to explain the exercises and their benefits. I highly recommend Dr. Smith for anyone in need of physiotherapy services."
+  },
+  {
+    "user_img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Bob Anderson",
+    "position": "Software Engineer",
+    "review": "Dr. Emily Davis, a Senior Cardiologist, provided exceptional care during my recent health scare. She conducted a thorough examination and explained my condition clearly. Her compassionate approach and professionalism made me feel at ease. Dr. Davis's treatment plan has greatly improved my heart health."
+  },
+  {
+    "user_img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?q=80&w=1961&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Catherine Lee",
+    "position": "Marketing Specialist",
+    "review": "Dr. Michael Brown is an outstanding Pediatrician. He has been caring for my children for the past five years, and I couldn't be happier with the care he provides. Dr. Brown is knowledgeable, patient, and always makes my kids feel comfortable during their visits. I highly recommend Dr. Brown for pediatric care."
+  },
+  {
+    "user_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "David Martinez",
+    "position": "Graphic Designer",
+    "review": "Dr. Sarah Wilson, a Dermatologist, has been a lifesaver for my skin issues. She accurately diagnosed my condition and provided an effective treatment plan that showed results within weeks. Dr. Wilson is highly skilled and very empathetic, always taking the time to listen to my concerns."
+  },
+  {
+    "user_img": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Eva Green",
+    "position": "Financial Analyst",
+    "review": "Dr. David Martinez, an Orthopedic Surgeon, performed a successful knee surgery on me. His expertise and confidence were evident from the first consultation. Dr. Martinez ensured I was well-informed about the procedure and the recovery process. His post-surgery care was exceptional, and I am now able to walk pain-free."
+  },
+  {
+    "user_img": "https://images.unsplash.com/photo-1526510747491-58f928ec870f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "name": "Frank Thompson",
+    "position": "Project Manager",
+    "review": "Dr. Linda Johnson, a Neurologist, has been instrumental in managing my chronic migraines. Her in-depth knowledge and innovative treatment approach have significantly reduced the frequency and severity of my migraines. Dr. Johnson is attentive, understanding, and always willing to explore new treatment options."
+  }
+]

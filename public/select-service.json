@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Teeth Orthodontics",
+    "service_img": "https://example.com/images/teeth_orthodontics.jpg",
+    "title": "Comprehensive Orthodontic Care",
+    "time": "10:00 AM - 6:00 PM"
+  },
+  {
+    "name": "Cosmetic Dentistry",
+    "service_img": "https://example.com/images/cosmetic_dentistry.jpg",
+    "title": "Enhance Your Smile",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "name": "Teeth Cleaning",
+    "service_img": "https://example.com/images/teeth_cleaning.jpg",
+    "title": "Professional Teeth Cleaning",
+    "time": "8:00 AM - 4:00 PM"
+  },
+  {
+    "name": "Cavity Protection",
+    "service_img": "https://example.com/images/cavity_protection.jpg",
+    "title": "Prevent Cavities",
+    "time": "10:00 AM - 5:00 PM"
+  },
+  {
+    "name": "Pediatric Dental",
+    "service_img": "https://example.com/images/pediatric_dental.jpg",
+    "title": "Children's Dental Care",
+    "time": "9:00 AM - 3:00 PM"
+  },
+  {
+    "name": "Oral Surgery",
+    "service_img": "https://example.com/images/oral_surgery.jpg",
+    "title": "Advanced Oral Surgery",
+    "time": "11:00 AM - 7:00 PM"
+  },
+  {
+    "name": "Teeth Whitening",
+    "service_img": "https://example.com/images/teeth_whitening.jpg",
+    "title": "Brighten Your Smile",
+    "time": "9:00 AM - 4:00 PM"
+  },
+  {
+    "name": "Dental Implants",
+    "service_img": "https://example.com/images/dental_implants.jpg",
+    "title": "Permanent Tooth Replacement",
+    "time": "10:00 AM - 6:00 PM"
+  },
+  {
+    "name": "Gum Disease Treatment",
+    "service_img": "https://example.com/images/gum_disease.jpg",
+    "title": "Comprehensive Gum Care",
+    "time": "8:00 AM - 2:00 PM"
+  },
+  {
+    "name": "Root Canal Treatment",
+    "service_img": "https://example.com/images/root_canal.jpg",
+    "title": "Root Canal Therapy",
+    "time": "10:00 AM - 4:00 PM"
+  },
+  {
+    "name": "Dentures & Partials",
+    "service_img": "https://example.com/images/dentures.jpg",
+    "title": "Custom Dentures",
+    "time": "9:00 AM - 5:00 PM"
+  },
+  {
+    "name": "Emergency Dental Care",
+    "service_img": "https://example.com/images/emergency_dental.jpg",
+    "title": "24/7 Emergency Services",
+    "time": "24 hours"
+  }
+]
